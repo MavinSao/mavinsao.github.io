@@ -1,152 +1,194 @@
 {
   "basics": {
-    "name": "Your Sidebar Name",
-    "email": "none@example.org",
-    "phone": "",
-    "website": "https://academicpages.github.io",
-    "summary": "Currently employed at Red Brick University. Short biography for the left-hand sidebar",
+    "name": "Mavin Sao",
+    "email": "mavinsao11@gmail.com",
+    "phone": "+82 1030139109",
+    "website": "https://mavinsao.github.io",
+    "summary": "Cambodian Master's student in Data Science at Chonnam National University with expertise in NLP, deep learning, and LLMs. Focused on classification models, topic modeling, and empathic computing.",
     "location": {
       "address": "",
       "postalCode": "",
-      "city": "Earth",
-      "countryCode": "US",
-      "region": ""
+      "city": "Gwangju",
+      "countryCode": "KR",
+      "region": "South Korea"
     },
     "profiles": [
       {
         "network": "Google Scholar",
         "username": "",
-        "url": "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
-      },
-      {
-        "network": "ORCID",
-        "username": "",
-        "url": "http://orcid.org/yourorcidurl"
+        "url": "https://scholar.google.com/"
       },
       {
         "network": "GitHub",
-        "username": "academicpages",
-        "url": "https://github.com/academicpages"
+        "username": "mavinsao",
+        "url": "https://github.com/mavinsao"
       }
     ]
   },
-  "work": [],
+  "work": [
+    {
+      "name": "NLP Research Lab, Chonnam National University",
+      "position": "Research Member",
+      "startDate": "2023-08",
+      "endDate": "",
+      "summary": "Advanced research in Natural Language Processing (NLP), specializing in classification, topic modeling, model interpretability, and transformer architectures.",
+      "location": "Gwangju, South Korea"
+    },
+    {
+      "name": "Korea Software HRD Center",
+      "position": "IT Instructor",
+      "startDate": "2020-01",
+      "endDate": "2022-07",
+      "summary": "Taught web and iOS mobile app development, including advanced courses in React Native, UI/UX, Linux, and Docker.",
+      "location": "Phnom Penh, Cambodia"
+    }
+  ],
   "education": [
     {
-      "institution": "GitHub University",
-      "area": "Ph.D in Version Control Theory",
-      "studyType": "",
-      "startDate": "",
+      "institution": "Chonnam National University",
+      "area": "Master’s in Data Science",
+      "studyType": "Master’s",
+      "startDate": "2023-03",
+      "endDate": "",
+      "courses": []
+    },
+    {
+      "institution": "Chonnam National University",
+      "area": "Korean Language Program",
+      "studyType": "Language",
+      "startDate": "2022-09",
+      "endDate": "2023-07",
+      "courses": []
+    },
+    {
+      "institution": "Royal University of Phnom Penh",
+      "area": "Computer Science and Engineering",
+      "studyType": "Bachelor’s",
+      "startDate": "2016",
+      "endDate": "2020",
+      "courses": []
+    },
+    {
+      "institution": "Korea Software HRD Center",
+      "area": "Software Development Expert (iOS and Web)",
+      "studyType": "Training",
+      "startDate": "2019-04",
+      "endDate": "2020-02",
+      "courses": []
+    },
+    {
+      "institution": "Paññāsāstra University of Cambodia",
+      "area": "English Diploma",
+      "studyType": "Diploma",
+      "startDate": "2017",
       "endDate": "2018",
-      "gpa": null,
-      "courses": []
-    },
-    {
-      "institution": "GitHub University",
-      "area": "M.S. in Jekyll",
-      "studyType": "",
-      "startDate": "",
-      "endDate": "2014",
-      "gpa": null,
-      "courses": []
-    },
-    {
-      "institution": "GitHub University",
-      "area": "B.S. in GitHub",
-      "studyType": "",
-      "startDate": "",
-      "endDate": "2012",
-      "gpa": null,
       "courses": []
     }
   ],
-  "skills": [],
-  "languages": [],
-  "interests": [],
-  "references": [],
+  "skills": [
+    {
+      "name": "Programming",
+      "keywords": ["HTML/CSS/JS", "Python", "Java", "Swift", "C/C++/C#"]
+    },
+    {
+      "name": "AI & NLP",
+      "keywords": ["LLMs", "Text Classification", "Topic Modeling", "Sentiment Analysis", "LangChain", "BERTopic", "Transformers"]
+    },
+    {
+      "name": "Tools",
+      "keywords": ["Docker", "React Native", "Linux", "Streamlit"]
+    }
+  ],
+  "languages": [
+    {
+      "language": "Khmer",
+      "fluency": "Native"
+    },
+    {
+      "language": "English",
+      "fluency": "Professional"
+    },
+    {
+      "language": "Korean",
+      "fluency": "Conversational (TOPIK Level 3)"
+    }
+  ],
+  "interests": [
+    {
+      "name": "Empathic Computing"
+    },
+    {
+      "name": "Multimodal NLP"
+    },
+    {
+      "name": "Educational Technology"
+    }
+  ],
+  "references": [
+    {
+      "name": "Prof. Hoi-Jeong Lim",
+      "reference": "Professor, Chonnam National University — hjlim@jnu.ac.kr / +82 62-530-5790"
+    },
+    {
+      "name": "Mr. Chen Phirum",
+      "reference": "Deputy Director, Korea Software HRD Center — phirum.gm@gmail.com / +855 12-998-919"
+    }
+  ],
   "publications": [
     {
-      "name": "Paper Title Number 1",
-      "publisher": "Journal 1",
-      "releaseDate": "2009-10-01",
-      "website": "http://academicpages.github.io/files/paper1.pdf",
-      "summary": "This paper is about the number 1. The number 2 is left for future work."
+      "name": "MIRoBERTa: Mental Illness Text Classification With Transfer Learning on Subreddits",
+      "publisher": "IEEE Access",
+      "releaseDate": "2024-12-25",
+      "website": "https://ieeexplore.ieee.org/document/10815727",
+      "summary": "This paper introduces MIRoBERTa, a RoBERTa-based model adapted for mental health domain via transfer learning on Reddit data. Achieves state-of-the-art performance in multiclass classification."
     },
     {
-      "name": "Paper Title Number 2",
-      "publisher": "Journal 1",
-      "releaseDate": "2010-10-01",
-      "website": "http://academicpages.github.io/files/paper2.pdf",
-      "summary": "This paper is about the number 2. The number 3 is left for future work."
-    },
-    {
-      "name": "Paper Title Number 3",
-      "publisher": "Journal 1",
-      "releaseDate": "2015-10-01",
-      "website": "http://academicpages.github.io/files/paper3.pdf",
-      "summary": "This paper is about the number 3. The number 4 is left for future work."
-    },
-    {
-      "name": "Paper Title Number 4",
-      "publisher": "GitHub Journal of Bugs",
-      "releaseDate": "2024-02-17",
-      "website": "http://academicpages.github.io/files/paper3.pdf",
-      "summary": "This paper is about fixing template issue #693."
+      "name": "Personalized E-Learning Course Recommendations: A Chatbot Approach Using LangChain",
+      "publisher": "2024 International Conference on Digital Contents",
+      "releaseDate": "2024-12-01",
+      "website": "",
+      "summary": "A LangChain-powered chatbot for personalized e-learning course recommendations using private datasets and RAG architecture."
     }
   ],
   "presentations": [
     {
-      "name": "Talk 1 on Relevant Topic in Your Field",
-      "event": "UC San Francisco, Department of Testing",
-      "date": "2012-03-01",
-      "location": "San Francisco, CA, USA",
-      "description": ""
-    },
-    {
-      "name": "Tutorial 1 on Relevant Topic in Your Field",
-      "event": "UC-Berkeley Institute for Testing Science",
-      "date": "2013-03-01",
-      "location": "Berkeley, CA, USA",
-      "description": ""
-    },
-    {
-      "name": "Talk 2 on Relevant Topic in Your Field",
-      "event": "London School of Testing",
-      "date": "2014-02-01",
-      "location": "London, UK",
-      "description": ""
-    },
-    {
-      "name": "Conference Proceeding talk 3 on Relevant Topic in Your Field",
-      "event": "Testing Institute of America 2014 Annual Conference",
-      "date": "2014-03-01",
-      "location": "Los Angeles, CA, USA",
-      "description": ""
+      "name": "Personalized E-Learning Course Recommendations: A Chatbot Approach Using LangChain",
+      "event": "2024 International Conference on Digital Contents",
+      "date": "2024-12-01",
+      "location": "South Korea",
+      "description": "Presented an AI-powered chatbot system using LangChain and RAG to recommend personalized e-learning courses through a Streamlit interface."
     }
   ],
   "teaching": [
     {
-      "course": "Teaching experience 1",
-      "institution": "University 1, Department",
-      "date": "2014-01-01",
-      "role": "Undergraduate course",
-      "description": ""
-    },
-    {
-      "course": "Teaching experience 2",
-      "institution": "University 1, Department",
-      "date": "2015-01-01",
-      "role": "Workshop",
-      "description": ""
+      "course": "Web & iOS App Development",
+      "institution": "Korea Software HRD Center",
+      "date": "2020-01-01",
+      "role": "IT Instructor",
+      "description": "Delivered basic and advanced courses in web design and mobile application development with tools like React Native and Docker."
     }
   ],
   "portfolio": [
     {
-      "name": "Portfolio item number 1",
-      "category": "portfolio",
-      "date": "",
+      "name": "Mental Health Text Classification",
+      "category": "NLP Project",
+      "date": "2024-12-01",
       "url": "",
-      "description": "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+      "description": "Used traditional ML, deep learning, and transformers (MIRoBERTa, MIBERT) to classify Reddit mental health posts."
+    },
+    {
+      "name": "Academic Ally: Course Recommendation Chatbot",
+      "category": "Chatbot",
+      "date": "2024-12-01",
+      "url": "",
+      "description": "RAG-based chatbot built using LangChain to deliver personalized course recommendations via Streamlit."
+    },
+    {
+      "name": "Topic Refinement with BERTopic and Mistral",
+      "category": "Topic Modeling",
+      "date": "2025-02-01",
+      "url": "",
+      "description": "Used BERTopic with LLM integration to extract and interpret user perception from smartphone forum discussions."
     }
   ]
 }
