@@ -7,6 +7,11 @@ venue: "2024 International Conference on Digital Contents"
 date: 2024-12-01
 location: "South Korea"
 ---
-[More information here](https://edas.info/p32980#S1571037314)
+
+#![Chatbot Presentation](/images/chatbot_presentation.jpg)
+
+[Download PDF](/files/digicon24-course-recommendations.pdf)
+
+
 
 This talk presents a personalized e-learning chatbot system that recommends courses based on user interests using LangChain and Retrieval-Augmented Generation (RAG). The chatbot integrates private course datasets and delivers recommendations through a Streamlit interface. The approach highlights the effectiveness of conversational AI in educational personalization and content navigation.

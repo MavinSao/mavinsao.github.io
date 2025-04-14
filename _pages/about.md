@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Mavin Sao"
+title: "About Me 🇰🇭"
 author_profile: true
 redirect_from: 
   - /about/
@@ -17,11 +17,24 @@ My research interest focuses on Multi-Modal Learning, NLP, and Pattern Recogniti
 
 ---
 
-📝 Recent Publications
+🏆 Awards
 ======
-**MIRoBERTa: Mental Illness Text Classification With Transfer Learning on Subreddits**  
-*Mavin Sao, Hoi-Jeong Lim*  
-*IEEE Access, vol.12, pp.197454–197466, Dec 2024 (SCIE - IF 3.4)*
+**Creativity Award**, K Data Science Conference & Hackathon  
+*2023*  
+Recognized for innovative project development in AI and data science.
+
+**Global Korea Scholarship (GKS)**, by NIIED  
+*Aug 2022 – Aug 2025*  
+Prestigious South Korean government scholarship for international students.
+
+**Scholarship for Software Experts Training**, KSHRD Center  
+*Apr 2019 – Feb 2020*  
+Intensive training in web and mobile software development.
+
+**Scholarship for ICT Training Program**, Cambodia-Korea Cooperation Center (CKCC).
+*Oct 2018 – Jan 2019*
+App Development with Java.
+
 ---
 
 🎓 Education
@@ -37,26 +50,9 @@ My research interest focuses on Multi-Modal Learning, NLP, and Pattern Recogniti
 Received TOPIK Level 3
 
 **Software Development Expert**, Korea Software HRD Center  
-- iOS App Development (648 hrs) — *Nov 2019 – Feb 2020*  
-- Web Development (816 hrs) — *Apr 2019 – Sep 2019*
+*Apr 2019 – Feb 2020*
 
 **Diploma in English**, Paññāsāstra University of Cambodia  
 *2017 – 2018*
+
 ---
-
-🏆 Awards
-======
-**Creativity Award**, K Data Science Conference & Hackathon  
-*2023*  
-Recognized for innovative project development in AI and data science.
-
-**Global Korea Scholarship (GKS)**, by NIIED  
-*Aug 2022 – Aug 2025*  
-Prestigious South Korean government scholarship for international students.
-
-**Scholarship for Software Experts Training**, KSHRD Center  
-*Apr 2019 – Feb 2020*  
-Intensive training in web and mobile software development.
----
-
-Thanks for visiting my academic portfolio! Feel free to explore my [Projects](/projects/), [Publications](/publications/), and [CV](/cv/).
