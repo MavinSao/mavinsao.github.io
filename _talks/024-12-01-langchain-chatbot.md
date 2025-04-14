@@ -8,7 +8,7 @@ date: 2024-12-01
 location: "South Korea"
 ---
 
-#![Chatbot Presentation](/images/chatbot_presentation.jpg)
+![Chatbot Presentation](/images/chatbot_presentation.JPG)
 
 [Download PDF](/files/digicon24-course-recommendations.pdf)
 
