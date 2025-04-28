@@ -31,8 +31,8 @@ Prestigious South Korean government scholarship for international students.
 *Apr 2019 – Feb 2020*  
 Intensive training in web and mobile software development.
 
-**Scholarship for ICT Training Program**, Cambodia-Korea Cooperation Center (CKCC).
-*Oct 2018 – Jan 2019*
+**Scholarship for ICT Training Program**, Cambodia-Korea Cooperation Center (CKCC)  
+*Oct 2018 – Jan 2019*  
 App Development with Java.
 
 ---

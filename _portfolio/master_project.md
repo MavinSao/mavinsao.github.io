@@ -11,7 +11,7 @@ collection: portfolio
 The "iPhone Issues Identification and Interpretation" project analyzes user-generated content from subreddits to identify iPhone-related issues. It uses sentiment analysis, topic modeling with BERTopic, and LLMs like fine-tuned BERT and Mistral AI to extract topics, interpret issues, and provide data-driven insights.
 
 ## ✨🎓 Academic Ally: Course Recommendation Chatbot
-[Demo](/files/digicon24-course-recommendations.pdf) (https://academic-ally-course-recommendation-chatbot.streamlit.app) [Git](https://github.com/MavinSao/Academic-Ally-Course-Recommendation-Chatbot)
+[Demo](https://academic-ally-course-recommendation-chatbot.streamlit.app) [Git](https://github.com/MavinSao/Academic-Ally-Course-Recommendation-Chatbot)
 
 This is an AI-powered course recommendation chatbot that provides personalized course suggestions based on user interests and goals. This Streamlit application uses advanced natural language processing and retrieval techniques to offer tailored educational recommendations.
 

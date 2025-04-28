@@ -1,7 +1,7 @@
 ---
 title: "Natural Language Processing: Applications and Techniques"
 collection: talks
-type: "Tutorial"
+type: "Workshop"
 permalink: /talks/2014-07-06-nlp_application
 venue: "Institute of Science and Technology Advanced Development - ISTAD"
 date: 2024-07-06
