@@ -1,6 +1,6 @@
 ---
 title: "Personalized E-Learning Course Recommendations: A Chatbot Approach Using LangChain"
-collection: talks
+collection: presentation
 type: "Presentation"
 permalink: /talks/2024-12-01-langchain-chatbot
 venue: "2024 International Conference on Digital Contents"

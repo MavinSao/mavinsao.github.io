@@ -1,6 +1,6 @@
 ---
 title: "Enhancing Mental Health Detection in Crisis-Related Posts on Social Media: A Domain-Adaptive Transformer Approach"
-collection: thesis
+collection: master_thesis
 type: "Master's Thesis Defense"
 permalink: /thesis/2024-mental-health-detection
 venue: "Graduate School of Data Science"
