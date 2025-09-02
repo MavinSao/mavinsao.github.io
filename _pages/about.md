@@ -7,18 +7,23 @@ redirect_from:
   - /about.html
 ---
 
-I’m **Mavin Sao**, a Cambodian Master's student in Data Science at Chonnam National University, South Korea. I hold a Bachelor's degree in Computer Science and Engineering from the Royal University of Phnom Penh. My research focuses on applying data analytics, machine learning, and Natural Language Processing (NLP) to solve real-world challenges across diverse domains.
+I’m **Mavin Sao**, a Cambodian Ph.D. student in the **Smart Computing Lab (SCLAB)** at Chonnam National University, South Korea. I hold a Master’s degree in Data Science from Chonnam National University and a Bachelor’s degree in Computer Science and Engineering from the Royal University of Phnom Penh. 
 
 ---
 
 🔬 Research Interests
 ======
-My research interest focuses on Multi-Modal Learning, NLP, and Pattern Recognition. My expertise lies in fine-tuning domain-adaptive Large Language Models (LLMs). I specialize in building classification models, conducting topic modeling, uncovering trends, and performing pattern recognition from large-scale text corpora.
+My research focuses on Artificial Intelligence, Medical Imaging, and Multi-Modal Learning, mainly developing intelligent systems for radiology report generation.
 
 ---
 
 🏆 Awards
 ======
+
+**Excellence Award**, Graduate School of Data Science, Chonnam National University.  
+*2025*  
+Recognized for outstanding academic performance and contributions during the Master’s program in Data Science.
+
 **Creativity Award**, K Data Science Conference & Hackathon  
 *2023*  
 Recognized for innovative project development in AI and data science.
@@ -39,8 +44,11 @@ App Development with Java.
 
 🎓 Education
 ======
+**PhD’s in Artificial intelligence convergence**, Chonnam National University, South Korea  
+*Sep 2025 – Present*
+
 **Master’s in Data Science**, Chonnam National University, South Korea  
-*2023 – Present*
+*2023 – Aug 2025*
 
 **Bachelor’s in Computer Science and Engineering**, Royal University of Phnom Penh, Cambodia  
 *2016 – 2020*

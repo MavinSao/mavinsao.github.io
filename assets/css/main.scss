@@ -41,3 +41,11 @@
     "vendor/font-awesome/brands",
     "vendor/magnific-popup/magnific-popup"
 ;
+
+/* Hide teaser/thumb images ONLY on the Talks archive page */
+.talks-archive .archive__item-teaser,
+.talks-archive .archive__item img {
+  display: none !important;
+}
+.talks-archive .archive__item .archive__item-body { margin-top: 0 !important; }
+
