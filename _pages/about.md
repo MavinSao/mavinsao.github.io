@@ -25,6 +25,10 @@ My research focuses on Artificial Intelligence, Medical Imaging, and Multi-Modal
 🏆 Awards
 ======
 
+**Grand Prize (대상)**, AI Agent Hackathon, Department of Artificial Intelligence Convergence, Chonnam National University  
+*Nov 2025*  
+Won with **Uni-SME**, an AI agent that bridges universities and Small and Medium-sized Enterprises (SMEs) by matching students and SMEs based on their backgrounds, project requirements, and organizational goals.
+
 **Excellence Award**, Graduate School of Data Science, Chonnam National University.  
 *2025*  
 Recognized for outstanding academic performance and contributions during the Master’s program in Data Science.
