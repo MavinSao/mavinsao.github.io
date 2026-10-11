@@ -13,7 +13,12 @@ I’m **Mavin Sao**, a Cambodian Ph.D. student in the **Smart Computing Lab (SCL
 
 🔬 Research Interests
 ======
-My research focuses on Artificial Intelligence, Medical Imaging, and Multi-Modal Learning, mainly developing intelligent systems for radiology report generation.
+My research focuses on Artificial Intelligence, Medical Imaging, and Multi-Modal Learning, mainly developing intelligent systems for radiology report generation. My current interests include:
+
+- **Medical Image-to-Text Translation**: generating radiology reports from medical images such as chest X-rays and CT scans.
+- **Referring Segmentation Based on Medical Findings**: localizing and segmenting regions in medical images described by clinical findings.
+- **Symptom-to-Finding Reasoning**: linking patient symptoms to the image findings that may explain them.
+- **Contrastive Learning**: learning aligned image and text representations for medical vision-language models.
 
 ---
 
