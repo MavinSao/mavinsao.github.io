@@ -13,4 +13,4 @@ citation: 'M. Sao and H.-J. Lim, "Personalized E-Learning Course Recommendations
 
 This paper presents a personalized e-learning chatbot system that recommends courses based on user interests using **LangChain** and **Retrieval-Augmented Generation (RAG)**. The chatbot integrates private course datasets and delivers recommendations through a Streamlit interface.
 
-[Conference proceedings](https://2024.dcon.kr/proc)
+[Paper on EDAS](https://edas.info/p32980) | [Conference proceedings](https://2024.dcon.kr/proc)
