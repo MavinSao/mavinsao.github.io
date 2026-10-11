@@ -27,7 +27,7 @@ My research focuses on Artificial Intelligence, Medical Imaging, and Multi-Modal
 
 **Silver Prize (은상)**, Industry-Academia Cooperation AI Hackathon (산학협력 AI 해커톤), Chonnam National University  
 *Aug 2026*  
-Won as Team Muffin (머핀팀) with a **Privacy-Preserving Contract Review AI Agent**, designed to protect sensitive information during contract analysis while still making use of external AI, improving both productivity and security. [News](https://today.jnu.ac.kr/WebApp/web/HOM/COM/Board/board.aspx?boardID=174&bbsMode=view&key=5431)
+Project: **Privacy-Aware Contract Review Agent**, an AI agent that detects and removes or pseudonymizes sensitive information in contracts before they are reviewed by external AI. [News](https://today.jnu.ac.kr/WebApp/web/HOM/COM/Board/board.aspx?boardID=174&bbsMode=view&key=5431)
 
 **Grand Prize (대상)**, AI Agent Hackathon, Department of Artificial Intelligence Convergence, Chonnam National University  
 *Nov 2025*  
