@@ -1,7 +1,7 @@
 ---
 title: "MIRoBERTa: Mental Illness Text Classification With Transfer Learning on Subreddits"
 collection: publications
-category: manuscripts
+category: sci_journal
 permalink: /publication/2024-12-25-miroberta
 excerpt: 'This paper presents MIRoBERTa, a domain-adaptive language model fine-tuned on mental health subreddit posts to enhance classification performance.'
 date: 2024-12-25
