@@ -3,6 +3,7 @@ title: "Project's Mentor Experience"
 excerpt: "Role as the project mentor in KSHRD<br/>"
 # excerpt: "Collection of my academic and research projects<br/><img src='/images/500x300.png'>"
 collection: portfolio
+published: false
 ---
 
 
